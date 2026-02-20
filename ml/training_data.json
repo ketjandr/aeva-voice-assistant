@@ -1,0 +1,288 @@
+{
+  "intents": [
+    {
+      "label": "email",
+      "samples": [
+        "email john",
+        "send an email to sarah",
+        "email my boss",
+        "send email please",
+        "open email",
+        "compose an email",
+        "write an email to mike",
+        "email to david",
+        "send mail to jane",
+        "email someone"
+      ]
+    },
+    {
+      "label": "contacts",
+      "samples": [
+        "call mom",
+        "call john",
+        "call 911",
+        "facetime sarah",
+        "message david",
+        "text mike",
+        "call my friend",
+        "text my brother",
+        "message jane please",
+        "facetime my sister",
+        "call dad",
+        "text sarah",
+        "call grandma"
+      ]
+    },
+    {
+      "label": "weather",
+      "samples": [
+        "how is the weather",
+        "weather in london",
+        "what is the weather today",
+        "weather forecast",
+        "temperature in new york",
+        "is it raining",
+        "weather in jakarta",
+        "what is the weather in tokyo",
+        "weather right now",
+        "current weather please",
+        "how is the weather in paris"
+      ]
+    },
+    {
+      "label": "timer",
+      "samples": [
+        "set a timer for 30 seconds",
+        "set timer for 5 minutes",
+        "timer 10 minutes",
+        "set a timer for 1 hour",
+        "countdown 2 minutes 30 seconds",
+        "set timer for one second",
+        "timer for 1 hour 30 minutes",
+        "set a 5 minute timer",
+        "alarm for 10 seconds",
+        "set countdown timer"
+      ]
+    },
+    {
+      "label": "music",
+      "samples": [
+        "play music",
+        "play jazz music",
+        "play hip hop song",
+        "turn on music",
+        "play a relaxing song",
+        "play some classical music",
+        "play electronic music",
+        "play a pop song",
+        "play christmas music",
+        "turn on some rock music",
+        "play lo-fi song"
+      ]
+    },
+    {
+      "label": "navigation",
+      "samples": [
+        "open maps",
+        "open google maps",
+        "navigate to the store",
+        "get directions",
+        "show me directions",
+        "navigate home",
+        "map please",
+        "open navigation",
+        "directions to the airport",
+        "show map"
+      ]
+    },
+    {
+      "label": "calculate",
+      "samples": [
+        "what is 2+2",
+        "calculate 5 times 3",
+        "what is 100 divided by 5",
+        "calculate 7-3",
+        "what is 10*10",
+        "calculate the square root of 16",
+        "what is 5 squared",
+        "count 3+4",
+        "what is 2^3",
+        "calculate 100/4"
+      ]
+    },
+    {
+      "label": "spelling",
+      "samples": [
+        "spell onomatopoeia",
+        "spell the word beautiful",
+        "how do you spell necessary",
+        "spell for me dictionary",
+        "spell apple",
+        "can you spell mississippi",
+        "spell the word chrysanthemum",
+        "spell rhythm",
+        "spell accommodate",
+        "spell science"
+      ]
+    },
+    {
+      "label": "app_control",
+      "samples": [
+        "open settings",
+        "open library",
+        "open help screen",
+        "open about page",
+        "open feedback panel",
+        "open panel controller",
+        "open instagram",
+        "open facebook",
+        "open whatsapp",
+        "open spotify",
+        "open youtube",
+        "open netflix",
+        "open discord",
+        "open twitter",
+        "open telegram",
+        "open zoom",
+        "open google",
+        "open snapchat",
+        "open slider",
+        "open google drive"
+      ]
+    },
+    {
+      "label": "search",
+      "samples": [
+        "search for python programming",
+        "what is machine learning",
+        "google flutter framework",
+        "search quantum physics",
+        "define artificial intelligence",
+        "translate hello to spanish",
+        "do you know about space",
+        "what is the meaning of life",
+        "search for recipes",
+        "define blockchain"
+      ]
+    },
+    {
+      "label": "datetime",
+      "samples": [
+        "what time is it now",
+        "what is the date today",
+        "what day is it today",
+        "current time",
+        "date right now",
+        "what is today's date",
+        "tell me the time now",
+        "what day is tomorrow",
+        "date and time right now",
+        "current date please"
+      ]
+    },
+    {
+      "label": "conversation",
+      "samples": [
+        "hello",
+        "hi there",
+        "hey",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "good night",
+        "tell me a joke",
+        "make me laugh",
+        "tell me a story",
+        "tell me a bedtime story",
+        "thank you",
+        "thanks",
+        "how are you",
+        "how is your day",
+        "shut up",
+        "can you hear me",
+        "test",
+        "testing",
+        "can you sing",
+        "knock knock",
+        "what is love",
+        "what is your favorite",
+        "do you like pizza",
+        "help me",
+        "greetings",
+        "be funny"
+      ]
+    },
+    {
+      "label": "identity",
+      "samples": [
+        "what is your name",
+        "who are you",
+        "who made you",
+        "who created you",
+        "who is your developer",
+        "how old are you",
+        "what is your age",
+        "when were you born",
+        "what does aeva mean",
+        "what is aeva",
+        "are you a robot",
+        "are you human",
+        "are you a person",
+        "what is your gender",
+        "what are you made of",
+        "where are you",
+        "what do you look like",
+        "what are you doing",
+        "are you smart",
+        "are you intelligent",
+        "i love you",
+        "do you have friends",
+        "do you have family",
+        "do you go to school",
+        "do you exercise",
+        "what is your hobby",
+        "what is your favorite sport",
+        "what is your favorite movie",
+        "will ai destroy humans",
+        "what are your parents",
+        "who developed aeva"
+      ]
+    },
+    {
+      "label": "device_settings",
+      "samples": [
+        "switch to dark mode",
+        "switch to light mode",
+        "enable dark theme",
+        "enable light theme",
+        "enable auto activation",
+        "disable auto activation",
+        "turn on auto activate",
+        "turn off auto activate",
+        "set voice to male",
+        "set voice to female",
+        "change voice to man",
+        "change voice to woman",
+        "enable microphone",
+        "disable location",
+        "enable contacts permission",
+        "open location settings"
+      ]
+    },
+    {
+      "label": "fallback",
+      "samples": [
+        "asdfghjkl",
+        "random nonsense text",
+        "blah blah blah",
+        "xyz abc",
+        "I don't know",
+        "nothing",
+        "never mind",
+        "forget it",
+        "hmm",
+        "okay"
+      ]
+    }
+  ]
+}
